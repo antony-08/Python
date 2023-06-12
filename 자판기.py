@@ -13,7 +13,7 @@ class machine:
 
     def Activate(Money, Time):
         times = 0 # 몇개의 음료수를 고를건지
-        Selects = [] # 선택한 음료수들
+        Selects = [] # 선택한 음료수들d
 
         print("-"*15)
 
