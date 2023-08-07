@@ -16,4 +16,4 @@ def solution(n, lost, reserve):
     answer = n - len(lost) + can
     return answer
 
-print(solution(5, [1,2,3], [2,3,4]))
+print(solution(5, [1,2,3], [2,3,4])) # a
